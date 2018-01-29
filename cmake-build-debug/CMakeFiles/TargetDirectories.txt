@@ -1,0 +1,3 @@
+/home/tigron/projects/work/Daemon-aiohttp-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tigron/projects/work/Daemon-aiohttp-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tigron/projects/work/Daemon-aiohttp-server/cmake-build-debug/CMakeFiles/Daemon_aiohttp_server.dir

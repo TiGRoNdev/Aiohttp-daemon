@@ -1,0 +1,4 @@
+/home/tigron/Programms/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tigron/projects/work/Daemon-aiohttp-server
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tigron/projects/work/Daemon-aiohttp-server/cmake-build-debug
